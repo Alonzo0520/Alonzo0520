@@ -4,4 +4,3 @@
 
 - <b>To-do list application with a GUI in Python</b>
   - https://github.com/Alonzo0520/To-Do-List-with-GUI/tree/main
-<h2> 🤳 Connect with me:</h2>
