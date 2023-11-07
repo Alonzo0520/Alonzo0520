@@ -2,6 +2,6 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>to-do list application with a GUI in Python</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>To-do list application with a GUI in Python</b>
+  - https://github.com/Alonzo0520/To-Do-List-with-GUI/tree/main
 <h2> 🤳 Connect with me:</h2>
