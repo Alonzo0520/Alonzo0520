@@ -3,4 +3,5 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>To-do list application with a GUI in Python</b>
+  - https://github.com/Alonzo0520/Projects
   - https://github.com/Alonzo0520/To-Do-List-with-GUI/tree/main
